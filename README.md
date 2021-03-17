@@ -18,5 +18,3 @@ The purpose of this project is to compare launch dates, outcomes based on goals,
 
 ## Is it successful to launch a play campaign <$1,000 during the month of May?
 
-
-testing Edits branch
