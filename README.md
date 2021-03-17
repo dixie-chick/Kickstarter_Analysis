@@ -8,7 +8,7 @@ The purpose of this project is to compare launch dates, outcomes based on goals,
   - Unrefined Categories ie what kind of play?
   - Location to determine success and create a hotspot map
  
-We do not know if specific US regions have influence nor amounts based on donor. If specific regions were had, hotspots of successful areas to launch could be mapped. With donation amounts, box and whisker plots could indicate average amounts to ensure majority is not funded by outliers.
+Specific US regions are unknown which could help determin hotspots to focus campaigns on. Donation amounts are unkown which would portray any outliers through a box and whisker plot in the event success came from one donor, skewing data for sucessful campgains.
 
 
 ## What was found?
