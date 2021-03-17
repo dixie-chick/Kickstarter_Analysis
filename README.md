@@ -18,7 +18,7 @@ Specific US regions are unknown which could help determin hotspots to focus camp
 ![date created](https://user-images.githubusercontent.com/79612565/111403499-4ff50a80-868a-11eb-88a0-495377ef9619.png)
 
 
-_**Therefore, we must also evaluate outcomes based on funding goal_
+_**We should also evaluate outcomes based on funding goal_
 
 - The most _successful_ play campaigns had a funding goal <$1000, while the highest number of _failed_ campaigns occurred between $45,000-$50,000:
 
@@ -29,5 +29,5 @@ _**Therefore, we must also evaluate outcomes based on funding goal_
 ![successful_campaign_length](https://user-images.githubusercontent.com/79612565/111403843-f50fe300-868a-11eb-867e-6078cb78cbf2.png)
 
 
-## Is it determined a successful campaign can be launched in Spring and Summer with a goal of <$1,000, particularly, the month of May.
+## A successful campaign can be launched in Spring and Summer with a goal less than $1,000 especially the month of May.
 
