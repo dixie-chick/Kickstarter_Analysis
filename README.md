@@ -4,9 +4,9 @@ This is a data visualization project comparing Kickstarter campaigns to understa
 The purpose of this project is to compare launch dates, outcomes based on goals, and provide a reccomendation for a successful theater/play campaign.
 ## Analysis & Challenges
 - Limitations: 
--   One data source used
--   Unrefined Categories ie what kind of play?
--   Location to determine success and create a hotspot map
+- - One data source used
+- - Unrefined Categories ie what kind of play?
+- - Location to determine success and create a hotspot map
 
 ## What was found?
 
@@ -15,8 +15,8 @@ The purpose of this project is to compare launch dates, outcomes based on goals,
 ![date created](https://user-images.githubusercontent.com/79612565/111403499-4ff50a80-868a-11eb-88a0-495377ef9619.png)
 
 
-**Therefore, we must also evaluate outcomes based on funding goal:
-**
+_**Therefore, we must also evaluate outcomes based on funding goal_
+
 - The most _successful_ play campaigns had a funding goal <$1000, while the highest number of _failed_ campaigns occurred between $45,000-$50,000:
 
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/79612565/111403514-55eaeb80-868a-11eb-976b-3e1a48c593fe.png)
