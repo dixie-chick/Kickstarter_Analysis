@@ -7,6 +7,9 @@ The purpose of this project is to compare launch dates, outcomes based on goals,
   - One data source used
   - Unrefined Categories ie what kind of play?
   - Location to determine success and create a hotspot map
+ 
+We do not know if specific US regions have influence nor amounts based on donor. If specific regions were had, hotspots of successful areas to launch could be mapped. With donation amounts, box and whisker plots could indicate average amounts to ensure majority is not funded by outliers.
+
 
 ## What was found?
 
@@ -26,6 +29,5 @@ _**Therefore, we must also evaluate outcomes based on funding goal_
 ![successful_campaign_length](https://user-images.githubusercontent.com/79612565/111403843-f50fe300-868a-11eb-867e-6078cb78cbf2.png)
 
 
-## Is it successful to launch a play campaign <$1,000 during the month of May?
+## Is it determined a successful campaign can be launched in Spring and Summer with a goal of <$1,000, particularly, the month of May.
 
-We do not know if specific US regions have influence nor amounts based on donor. If specific regions were had, hotspots of successful areas to launch could be mapped. With donation amounts, box and whisker plots could indicate average amounts to ensure majority is not funded by outliers.
