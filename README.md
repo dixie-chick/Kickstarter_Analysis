@@ -4,9 +4,9 @@ This is a data visualization project comparing Kickstarter campaigns to understa
 The purpose of this project is to compare launch dates, outcomes based on goals, and provide a reccomendation for a successful theater/play campaign.
 ## Analysis & Challenges
 - Limitations: 
-- - One data source used
-- - Unrefined Categories ie what kind of play?
-- - Location to determine success and create a hotspot map
+  - One data source used
+  - Unrefined Categories ie what kind of play?
+  - Location to determine success and create a hotspot map
 
 ## What was found?
 
