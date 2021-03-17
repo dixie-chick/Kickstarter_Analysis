@@ -3,6 +3,9 @@ This is a data visualization project comparing Kickstarter campaigns to understa
 ## How do launch dates and funding goals affect successful Kickstarter fundraising campgains?
 The purpose of this project is to compare launch dates, outcomes based on goals, and provide a reccomendation for a successful theater/play campaign.
 ## Analysis & Challenges
+- Limitations: only pulling from one source can limit data
+- Unrefined Categories
+- Location can determine success, do we have a hotspot map?
 
 ## What was found?
 
@@ -17,4 +20,6 @@ The purpose of this project is to compare launch dates, outcomes based on goals,
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/79612565/110821118-9db1e300-8244-11eb-901c-af4325f99945.png)
 
 ## Is it successful to launch a play campaign <$1,000 during the month of May?
+
+box and whisker based on donation amounts- did someone donate 300 vs 3 dollars
 
